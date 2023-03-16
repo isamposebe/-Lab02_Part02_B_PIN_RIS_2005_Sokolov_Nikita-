@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="38363158-41ab-431f-bc25-8ec0ad9eed26" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab02_Part02_B_PIN_RIS_2005_SokolovND.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/laba2-2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solving_equations.py" afterDir="false" />
-    </list>
+    <list default="true" id="38363158-41ab-431f-bc25-8ec0ad9eed26" name="Changes" comment="Лабараторная работа 2_2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,9 +75,30 @@
       <option name="presentableId" value="Default" />
       <updated>1678970108123</updated>
     </task>
+    <task id="LOCAL-00001" summary="Лабараторная работа 2_2">
+      <created>1678973343698</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678973343698</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Лабараторная работа 2_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Лабараторная работа 2_2" />
   </component>
 </project>
